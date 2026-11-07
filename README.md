@@ -10,7 +10,8 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 </div>
 
@@ -24,14 +25,14 @@ A client website for a clinic offering acupuncture and complementary therapies. 
 
 ## Highlights
 
-- 🌿 **Brand-aligned design** — a calm visual identity that matches the clinic's care-focused service.
-- 📋 **Clear service presentation** — treatments, benefits and practitioner information organized for quick reading.
-- 📱 **Fully responsive** — designed mobile-first, where most patients find the clinic.
-- 📞 **Conversion-focused** — clear calls to action leading to contact and appointment booking.
+- 📋 **Built around the booking journey** — treatments, specialists, pricing, FAQ, testimonials and online booking.
+- 🌿 **Calm premium identity** — Framer Motion transitions and Swiper carousels.
+- 🧩 **Reusable components** — consistent sections across a multi-page site.
+- 📱 **Mobile-first** — responsive grids designed for where most patients find the clinic.
 
 ## Tech stack
 
-`React` · `Vite` · `JavaScript` · `Responsive design` · `Vercel`
+`React` · `Vite` · `Tailwind CSS` · `Framer Motion` · `Swiper` · `React Router` · `Vercel`
 
 ## Author
 
